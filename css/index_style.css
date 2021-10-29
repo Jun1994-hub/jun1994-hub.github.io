@@ -1,0 +1,22 @@
+html{
+	background-color:black;
+	
+}
+
+h1
+{
+	/* 
+	pa janm bliye termine ligne css yo
+	epi nan fichier css yo pa janm gen signe egal men c pito : ki ranplase =  
+	*/
+	/* color=green; sa pap mache*/ 
+	color:green; 
+}
+
+p
+{
+	color:white;
+}
+a{
+	color:green;
+}
